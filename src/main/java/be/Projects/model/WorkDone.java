@@ -31,8 +31,7 @@ public class WorkDone {
         return date;
     }
 
-    public void setDate(LocalDate date) {
-        this.date = date;
+    public void setDate(LocalDate date) { this.date = date;
     }
 
     public int getHours() {
@@ -40,7 +39,11 @@ public class WorkDone {
     }
 
     public void setHours(int hours) {
+        if(hours > 0)
         this.hours = hours;
+        else
+            System.out.println("Enter valid hours");
+
     }
 
     public String getRemarks() {

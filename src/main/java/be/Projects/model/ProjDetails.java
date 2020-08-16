@@ -1,6 +1,5 @@
 package be.Projects.model;
 
-
 import java.time.LocalDate;
 import java.sql.Date;
 
@@ -20,34 +19,20 @@ public class ProjDetails {
     public void setProjid(int projid) {
         this.projid = projid;
     }
-    public LocalDate getStartingdate() {
 
-        return startingdate;
-    }
+    public LocalDate getStartingdate() { return startingdate; }
 
-    public void setStartingdate(LocalDate startingdate) {
+    public void setStartingdate(LocalDate startingdate) { this.startingdate = startingdate; }
 
-        this.startingdate = startingdate;
-    }
+    public String getDescription() { return description; }
 
-    public String getDescription() {
+    public void setDescription(String description) { this.description = description; }
 
-        return description;
-    }
-
-    public void setDescription(String description) {
-
-        this.description = description;
-    }
-
-    public int getPrice() {
-
-        return price;
-    }
+    public int getPrice() { return price; }
 
     public void setPrice(int price) {
         if(price<0)
-            System.out.println("Enter Price above Zero");
+            System.out.println("Enter  Valid Price");
         else
         this.price = price;
     }
