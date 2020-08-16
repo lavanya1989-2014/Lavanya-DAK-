@@ -1,0 +1,10 @@
+
+d
+java:S39736"IUse indentation to denote the code conditionally executed by this "else".(„¶áìøÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(´ö˜ûÿÿÿÿÿ
+M	java:S1065"9Replace this use of System.out or System.err by a logger.(ÇÞÛi
+d
+java:S3973#"IUse indentation to denote the code conditionally executed by this "else".(„¶áìøÿÿÿÿ
+K
+java:S1128"0Remove this unused import 'java.time.LocalDate'.(›‘¬èýÿÿÿÿ
+S	java:S106""9Replace this use of System.out or System.err by a logger.(ªö¨Êúÿÿÿÿ
