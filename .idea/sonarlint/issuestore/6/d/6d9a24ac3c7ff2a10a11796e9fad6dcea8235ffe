@@ -1,19 +1,44 @@
 
-N	java:S106D"9Replace this use of System.out or System.err by a logger.(Í‘ã
-]
-java:S2095"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(¥ØÒ¢
-j
-java:S2095""OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ƒ»ÊŞûÿÿÿÿ
-e
-java:S2095M"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(…à·Ó
-N	java:S1069"9Replace this use of System.out or System.err by a logger.(º†§
+c
+java:S1192"FDefine a constant instead of duplicating this literal "empId" 3 times.(ÿæä‘8èŒº¯¿.
 o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(­©Õ±
-e
-java:S20956"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(…à·Ó
-]
-java:S2095#"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(„‡–
+Z	java:S106g"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ8èŒº¯¿.
+r
+java:S2095™"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(àø„˜úÿÿÿÿ8èŒº¯¿.
+R
+java:S1128"0Remove this unused import 'java.time.LocalDate'.(›‘¬èıÿÿÿÿ8èŒº¯¿.
+Z	java:S106V"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ8èŒº¯¿.
+N	java:S106j"9Replace this use of System.out or System.err by a logger.(Í‘ã
+l
+java:S2095b"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÒÖ˜ª8èŒº¯¿.
 b
-java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ
+java:S2095t"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ
 e
-java:S2095A"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(…à·Ó
-S	java:S106P"9Replace this use of System.out or System.err by a logger.(£«¬ˆúÿÿÿÿ
+java:S2095"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(·¦Ã…8èŒº¯¿.
+S	java:S1069"9Replace this use of System.out or System.err by a logger.(ˆğÙšıÿÿÿÿ
+g
+java:S1192"JDefine a constant instead of duplicating this literal "firstname" 4 times.(ÔŸé¾8èŒº¯¿.
+e
+java:S2095…"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(·¦Ã…8èŒº¯¿.
+k
+java:S3973:"IUse indentation to denote the code conditionally executed by this "else".(„¶áìøÿÿÿÿ8èŒº¯¿.
+H
+java:S1168?"+Return an empty collection instead of null.(¥¹ï8èŒº¯¿.
+]
+java:S2095"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(¥ØÒ¢
+k
+java:S1192"IDefine a constant instead of duplicating this literal "lastname" 4 times.(üáš•ÿÿÿÿÿ8èŒº¯¿.
+U	java:S106X"9Replace this use of System.out or System.err by a logger.(º†§8èŒº¯¿.
+i
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ8èŒº¯¿.
+S	java:S106w"9Replace this use of System.out or System.err by a logger.(£«¬ˆúÿÿÿÿ
+Z	java:S106{"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ8èŒº¯¿.
+r
+java:S1192"PDefine a constant instead of duplicating this literal "emergencynumber" 3 times.(Ø¦İ‘üÿÿÿÿ8èŒº¯¿.
+l
+java:S2095K"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÒÖ˜ª8èŒº¯¿.
+Z	java:S106="9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ8èŒº¯¿.
+m
+java:S2095‚"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÒÖ˜ª8èŒº¯¿.
+l
+java:S2095("OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÒÖ˜ª8èŒº¯¿.

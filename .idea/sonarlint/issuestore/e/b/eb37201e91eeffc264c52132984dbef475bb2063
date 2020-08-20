@@ -2,3 +2,6 @@
 @
 java:S1128"*Remove this unused import 'java.sql.Date'.(ÙÀ½Ê
 t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(´ö˜ûÿÿÿÿÿ
+d
+java:S3973*"GUse indentation to denote the code conditionally executed by this "if".(¤¥8À¬­Æ¿.
+Z	java:S106-"9Replace this use of System.out or System.err by a logger.(âÑÄ¿ùÿÿÿÿ8À¬­Æ¿.

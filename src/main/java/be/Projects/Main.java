@@ -265,7 +265,7 @@ public class Main {
                 Scanner scanner = new Scanner(System.in);
                 System.out.println("Enter ProjectID(1-digit)");
                 int projectId = scanner.nextInt();
-                int profit = workDoneService.profitOfProject(projectId);
+                double profit = workDoneService.totalCostOfProj(projectId);
                 System.out.println("PRofit of " + projectId + " is " + profit);
             }
 

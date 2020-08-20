@@ -151,23 +151,21 @@ public  void addRecord(WorkDone workDone) throws SQLException {
 
     }
 
+    public int employeeWorkingHours(int empid,int projid) throws SQLException {
+        String sql = "SELECT Sum(hours) AS empHours FROM WorkDone WHERE  projid =" + projid + "AND empid = " + empid ;
+        Connection con = ConnectionFactory.getConnection();
+        Statement st = con.createStatement();
+        ResultSet resultSet = st.executeQuery(sql);
+        int  result = resultSet.getInt("empHours");
+        return result;
 
-    public int hourlyWages( int empid) {
 
-    Employee emp = new Employee();
-     int salary = emp.getSal();
-     int salPerDay = salary/22;
-     int salPerHour = salPerDay/8;
-     return salPerHour;
 
     }
 
 
-    public int totalCostOfProj (int projid )throws SQLException {
-        WorkDone workDone = new WorkDone();
-     int cost = hourlyWages(workDone.getEmpid()) * workDone.getHours();
-     return cost;
-   }
+
+
 
 
 

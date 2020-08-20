@@ -15,3 +15,14 @@ b
 2src/main/java/be/Projects/data/ProjDetailsDAO.java,8\6\8655f7c7ba2714290021229a19947513869338fb
 e
 5src/main/java/be/Projects/data/ConnectionFactory.java,e\6\e655d512345472fcdad5c7ac7b9a58d025bf4b28
+:
+
+.classpath,3\5\354079a72b91a4280407c16a36f47d1986fd85a5
+S
+#src/main/java/be/Projects/Main.java,7\7\77000a97c3083420f5f6b3c77b28a6d4c54cbddb
+`
+0src/main/java/be/Projects/model/ProjDetails.java,b\e\be2013d4229bbf71958732622cce1c33c16ee4a6
+S
+#.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
+j
+:src/main/java/be/Projects/services/ProjDetailsService.java,f\3\f32f27640d62b5cd9bd7ea8fcdf2c97389cc55fb

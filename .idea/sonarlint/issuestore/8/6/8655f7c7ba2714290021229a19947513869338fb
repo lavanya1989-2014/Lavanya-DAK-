@@ -1,9 +1,42 @@
 
-N	java:S106"9Replace this use of System.out or System.err by a logger.(Â–‘ö
-e
-java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(…à·Ó
+R
+java:S1128"0Remove this unused import 'java.time.LocalDate'.(›‘¬èıÿÿÿÿ8÷ˆô¯¿.
+N	java:S1061"9Replace this use of System.out or System.err by a logger.(û„í¯
+i
+java:S2095\"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ8÷ˆô¯¿.
+i
+java:S20959"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ8÷ˆô¯¿.
+Z	java:S106T"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ8÷ˆô¯¿.
+N	java:S106&"9Replace this use of System.out or System.err by a logger.(Â–‘ö
+c
+java:S1192"GDefine a constant instead of duplicating this literal "projid" 3 times.(¦¯Z8î©€°¿.
+d
+java:S2095D"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(°÷²…8÷ˆô¯¿.
+Y
+java:S1128"7Remove this unused import 'be.Projects.model.Employee'.(Ìà¥æüÿÿÿÿ8±ı¯¿.
+i
+java:S2095"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(ğÔÁşÿÿÿÿ8ûÛù¯¿.
+i
+java:S2095C"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ8÷ˆô¯¿.
+Z	java:S106m"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ8÷ˆô¯¿.
+h
+java:S1192"LDefine a constant instead of duplicating this literal "description" 3 times.(¼òŞq8î©€°¿.
+i
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ8ûÛù¯¿.
+d
+java:S2095]"GUse try-with-resources or close this "ResultSet" in a "finally" clause.( Ÿ¸8÷ˆô¯¿.
+l
+java:S2095("OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÒÖ˜ª8÷ˆô¯¿.
+h
+java:S1192"FDefine a constant instead of duplicating this literal "price" 3 times.(‚ĞåÅÿÿÿÿÿ8î©€°¿.
+H
+java:S1168o"+Return an empty collection instead of null.(¥¹ï8÷ˆô¯¿.
+Z	java:S106/"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ8÷ˆô¯¿.
+j
+java:S1192"MDefine a constant instead of duplicating this literal "startingdate" 3 times.(é²´¢8î©€°¿.
+h
+java:S1192"KDefine a constant instead of duplicating this literal "endingdate" 3 times.(ÅœÿÂ8î©€°¿.
+N	java:S106<"9Replace this use of System.out or System.err by a logger.(èÈÈ
+H
+java:S1168V"+Return an empty collection instead of null.(¥¹ï8÷ˆô¯¿.
 o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(­©Õ±
-N	java:S106"9Replace this use of System.out or System.err by a logger.(û„í¯
-N	java:S106 "9Replace this use of System.out or System.err by a logger.(èÈÈ
-e
-java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(…à·Ó

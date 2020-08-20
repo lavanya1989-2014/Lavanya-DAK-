@@ -33,6 +33,29 @@ public class EmployeeDAO {
         return result;
     }
 
+    public Employee getEmployee( int id) throws  SQLException
+    {
+        Connection connection = ConnectionFactory.getConnection();
+        Statement statement = connection.createStatement();
+        ResultSet resultSet = statement.executeQuery("SELECT * FROM Employee where empid = "+ id);
+
+        List<Employee> result = new ArrayList<>();
+        Employee employee = new Employee();
+
+        while (resultSet.next()) {
+
+
+            employee.setEmpid(resultSet.getInt("empId"));
+            employee.setFirstname(resultSet.getString("firstname"));
+            employee.setLastname(resultSet.getString("lastname"));
+            employee.setEmergencynumber(resultSet.getString("emergencynumber"));
+            employee.setDob(resultSet.getDate("dob").toLocalDate());
+            employee.setSal(resultSet.getInt("sal"));
+
+        }
+        return employee;
+    }
+
     public List<Employee> employeeSecurityCheck(String name) throws SQLException {
         try {
             Connection connection = ConnectionFactory.getConnection();

@@ -1,23 +1,43 @@
 
-b
-java:S2095F"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµþÿÿÿÿ
+r
+java:S2095‰"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(àø„˜úÿÿÿÿ8°§ÜÃ¿.
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(¡¼ƒÆýÿÿÿÿ8°§ÜÃ¿.
+O
+java:S1172›",Remove this unused method parameter "empid".(¬ž¬ÿùÿÿÿÿ8°§ÜÃ¿.
+d
+java:S2095f"GUse try-with-resources or close this "Statement" in a "finally" clause.(‹½»ž8°§ÜÃ¿.
 e
-java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(…à·Ó
-N	java:S106&"9Replace this use of System.out or System.err by a logger.(Í‘ã
-S	java:S1061"9Replace this use of System.out or System.err by a logger.(£«¬ˆúÿÿÿÿ
-b
-java:S20958"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµþÿÿÿÿ
-e
-java:S2095."OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(…à·Ó
-]
-java:S2095:"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(Œû”–
-]
-java:S2095H"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(Œû”–
-U
-java:S1128":Remove this unused import 'be.Projects.model.ProjDetails'.(á¿“­üÿÿÿÿ
+java:S2095#"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÒÖ˜ª
+h
+java:S1192Z"FDefine a constant instead of duplicating this literal "hours" 3 times.(êíñ‘øÿÿÿÿ8°§ÜÃ¿.
 o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(­©Õ±
-S	java:S106"9Replace this use of System.out or System.err by a logger.(ŽÂàïøÿÿÿÿ
-R
-java:S1128"7Remove this unused import 'be.Projects.model.Employee'.(Ìà¥æüÿÿÿÿ
-e
-java:S2095#"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(…à·Ó
+y
+java:S1488¨"\Immediately return this expression instead of assigning it to the temporary variable "cost".(±íq8§š§Æ¿.
+Œ
+java:S1130¦"nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(˜÷»8§š§Æ¿.
+€
+java:S1488 "bImmediately return this expression instead of assigning it to the temporary variable "salPerHour".(ÐÝ½»8°§ÜÃ¿.
+K
+java:S1172¦"-Remove this unused method parameter "projid".(˜÷»8§š§Æ¿.
+q
+java:S2095u"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(àø„˜úÿÿÿÿ8°§ÜÃ¿.
+l
+java:S20951"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÒÖ˜ª8°§ÜÃ¿.
+d
+java:S2095P"GUse try-with-resources or close this "Statement" in a "finally" clause.(‹½»ž8°§ÜÃ¿.
+i
+java:S1192E"GDefine a constant instead of duplicating this literal "projid" 4 times.(—šžñûÿÿÿÿ8°§ÜÃ¿.
+d
+java:S2095g"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(–»¹¥8°§ÜÃ¿.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(’…î8°§ÜÃ¿.
+d
+java:S2095Q"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(–»¹¥8°§ÜÃ¿.
+Z	java:S1066"9Replace this use of System.out or System.err by a logger.(ñÞ­Šùÿÿÿÿ8°§ÜÃ¿.
+q
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(½¨“Ðúÿÿÿÿ8°§ÜÃ¿.
+]
+java:S2095?"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(Œû”–
+c
+java:S1192D"FDefine a constant instead of duplicating this literal "empid" 4 times.(Ë«ˆÔ8°§ÜÃ¿.
+b
+java:S2095>"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµþÿÿÿÿ
